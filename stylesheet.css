@@ -127,7 +127,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(./item/ハートの紫陽花.JPG);
+    background-image: url(https://raw.githubusercontent.com/NATSUKI-0629/webcounselor/main/%E3%83%8F%E3%83%BC%E3%83%88%E3%81%AE%E7%B4%AB%E9%99%BD%E8%8A%B1.JPG);
     min-height: 100vh;
 }
 #home .page-title {
@@ -199,7 +199,7 @@ img {
 
 /* NEWS ---------- */
 #news {
-    background-image: url(./item/水滴のついた紫陽花.jpg);
+    background-image: url(https://raw.githubusercontent.com/NATSUKI-0629/webcounselor/main/%E6%B0%B4%E6%BB%B4%E3%81%AE%E3%81%A4%E3%81%84%E3%81%9F%E7%B4%AB%E9%99%BD%E8%8A%B1.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -293,7 +293,7 @@ aside p {
 }
 /* MENU ----------*/
 #menu {
-    background-image: url(./item/白い紫陽花.jpg);
+    background-image: url(https://raw.githubusercontent.com/NATSUKI-0629/webcounselor/main/%E7%99%BD%E3%81%84%E7%B4%AB%E9%99%BD%E8%8A%B1.jpg);
     min-height: 100vh;
 }
 .menu-content {
@@ -337,7 +337,7 @@ footer p {
 
 /* CONTACT ---------- */
 #contact {
-    background-image: url(./item/紫陽花と風車.jpg);
+    background-image: url(https://raw.githubusercontent.com/NATSUKI-0629/webcounselor/main/%E7%B4%AB%E9%99%BD%E8%8A%B1%E3%81%A8%E9%A2%A8%E8%BB%8A.jpg);
     min-height: 100vh;
 }
 
